@@ -1,0 +1,12 @@
+A map is created in square format:
+
+xxx
+xxx
+xxx
+
+each value in x represents a block.
+
+current blocks are:
+0.Floor[Black]
+1.Player spawn + floor[Red]
+2.Wall[Blue]

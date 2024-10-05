@@ -1,0 +1,9 @@
+# Ignore Visual Studio files
+.vs/
+*.sln
+*.vcxproj*
+
+# Ignore build outputs
+x64/
+*.exe
+*.obj
